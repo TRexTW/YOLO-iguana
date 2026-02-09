@@ -9,7 +9,7 @@ YOLO Iguana Model
 
 
 YOLO Iguana Model
-![YOLO Iguana Model](YOLO-iguana-Aaron-Lee-Kar-98K-Lee-Town-Garden.jpg)
+![YOLO Iguana Model](https://github.com/TRexTW/YOLO-iguana/blob/main/figure/YOLO-iguana-Aaron-Lee-Kar-98K-Lee-Town-Garden.jpg)
 
 
 YOLO Iguana Model
